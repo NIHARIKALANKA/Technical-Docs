@@ -37,9 +37,9 @@
 [GitHub Link](https://github.com/)
 
 **to insert a table**
-|Name|Branch|Rollno|
-|-----|-----|-----|
-|Niharika|Cse|5G1|
-|chandrika|CSE|5F7|
+|Name|Branch|Rollno|  
+|-----|-----|-----|  
+|Niharika|Cse|5G1|  
+|chandrika|CSE|5F7|  
 
 :sunglasses:	
